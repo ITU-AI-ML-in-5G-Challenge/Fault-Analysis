@@ -1,0 +1,12 @@
+# Do not commit challenge data.
+data/*
+
+# Temporary files for notebook servers.
+.ipynb_checkpoints
+
+# Do not commit env files.
+.env
+.venv
+env/
+venv/
+ENV/
