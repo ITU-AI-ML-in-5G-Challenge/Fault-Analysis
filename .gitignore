@@ -3,7 +3,7 @@ data/*
 
 # Temporary files for notebook servers.
 .ipynb_checkpoints
-
+Report.docx
 # Do not commit env files.
 .env
 .venv
